@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/alexandremuchinski/Desktop/mlops/mnist_project/mlruns/0/d34111abda814ec29fa001d5db470842/artifacts
+end_time: 1678825159125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d34111abda814ec29fa001d5db470842
+run_name: burly-hog-999
+run_uuid: d34111abda814ec29fa001d5db470842
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678825159089
+status: 4
+tags: []
+user_id: alexandremuchinski

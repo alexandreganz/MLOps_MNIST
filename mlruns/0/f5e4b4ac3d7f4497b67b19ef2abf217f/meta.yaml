@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/alexandremuchinski/Desktop/mlops/mnist_project/mlruns/0/f5e4b4ac3d7f4497b67b19ef2abf217f/artifacts
+end_time: 1678826637494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5e4b4ac3d7f4497b67b19ef2abf217f
+run_name: whimsical-flea-96
+run_uuid: f5e4b4ac3d7f4497b67b19ef2abf217f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678826637463
+status: 4
+tags: []
+user_id: alexandremuchinski

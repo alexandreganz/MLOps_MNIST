@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/alexandremuchinski/Desktop/mlops/mnist_project/mlruns/0/6dcfa1afc0e04e5591422c551dcda9a5/artifacts
+end_time: 1678827559237
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6dcfa1afc0e04e5591422c551dcda9a5
+run_name: blushing-boar-171
+run_uuid: 6dcfa1afc0e04e5591422c551dcda9a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678827535529
+status: 4
+tags: []
+user_id: alexandremuchinski

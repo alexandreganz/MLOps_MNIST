@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/alexandremuchinski/Desktop/mlops/mnist_project/mlruns/0/967266480efc439b92c231fb53df84a8/artifacts
+end_time: 1678826879971
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 967266480efc439b92c231fb53df84a8
+run_name: vaunted-tern-97
+run_uuid: 967266480efc439b92c231fb53df84a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678826873795
+status: 3
+tags: []
+user_id: alexandremuchinski

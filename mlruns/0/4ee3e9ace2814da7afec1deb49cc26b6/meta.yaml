@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/alexandremuchinski/Desktop/mlops/mnist_project/mlruns/0/4ee3e9ace2814da7afec1deb49cc26b6/artifacts
+end_time: 1678872003366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ee3e9ace2814da7afec1deb49cc26b6
+run_name: loud-ant-91
+run_uuid: 4ee3e9ace2814da7afec1deb49cc26b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678871997499
+status: 3
+tags: []
+user_id: alexandremuchinski

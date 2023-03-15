@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/alexandremuchinski/Desktop/mlops/mnist_project/mlruns/0/e8b0d7de0c2541ecab2927f7ce9e65eb/artifacts
+end_time: 1678828942187
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8b0d7de0c2541ecab2927f7ce9e65eb
+run_name: selective-loon-205
+run_uuid: e8b0d7de0c2541ecab2927f7ce9e65eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678828937221
+status: 3
+tags: []
+user_id: alexandremuchinski
