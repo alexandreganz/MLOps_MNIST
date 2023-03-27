@@ -10,7 +10,6 @@ import mlflow
 import mlflow.pytorch
 from mlflow import MlflowClient
 
-import math
 
 def print_auto_logged_info(r):
     tags = {k: v for k, v in r.data.tags.items() if not k.startswith("mlflow.")}
